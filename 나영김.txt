@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>김나영</title>
+<body>
+<p>김나영은 멍청하다.<br/>
+김나영은 권순호다.<br/>
+<div style="color: red;">
+김나영은 인성이 안좋다.</p>
+</div>
+<img src= "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MDhfMjkx/MDAxNTY3OTMyMTA3OTA5.jQA7W6V4dbyZbq8Vv6V4eRVzdfwtYJNVvYBcjJlELm8g.ExN-OGI7nGNJt1IBh-tYDGFoRs6mFjF8WbjGHPoOb4og.JPEG.dkgoggog21/%EC%96%B4%EC%84%9C%EC%98%A4%EA%B3%A02.JPG?type=w420" alt="선넘네"/>
+<div style="color: green;">
+<p>누구나 아는 사실</p>
+</div>
+<img src="20200921060528.1084576 - 복사본.gif" alt="이걸 본다면 넌 멍청이야"/>
+</body>
+</html>
